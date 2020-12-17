@@ -1,6 +1,6 @@
 age();
 
-//Modification test2
+//Modification test2 master
 function age() {
     var age = prompt("Quel est ton âge?");
     6
