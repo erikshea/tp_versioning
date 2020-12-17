@@ -3,8 +3,10 @@ age();
 //Modification test2 master
 function age() {
     var age = prompt("Quel est ton âge?");
-    6
-    if (age >= 6 && age <= 7) {
+    if(age<6){
+        alert("pas de catégorie")
+    }else
+    if (age <= 7) {
         alert("Tu fais partie des poussins")
     } else if (age <= 9) {
         alert("Tu fais partie des Pupille ")
