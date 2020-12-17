@@ -1,3 +1,5 @@
+///test 3
+
 function age() {
     var age = prompt("Quel est ton âge?");
 
